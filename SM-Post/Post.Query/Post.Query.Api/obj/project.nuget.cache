@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yHjBpOyYcWo=",
+  "success": true,
+  "projectFilePath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhada\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\bhada\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
