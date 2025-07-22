@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oaJ9CMswsVU=",
+  "dgSpecHash": "QdnH+EwTDSc=",
   "success": true,
-  "projectFilePath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+  "projectFilePath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhada\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\bhada\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

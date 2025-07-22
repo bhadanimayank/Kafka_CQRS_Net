@@ -1,0 +1,13 @@
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\bin\Debug\net9.0\CQRS.Core.deps.json
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\bin\Debug\net9.0\CQRS.Core.dll
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\bin\Debug\net9.0\CQRS.Core.pdb
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.csproj.AssemblyReference.cache
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.AssemblyInfoInputs.cache
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.AssemblyInfo.cs
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.csproj.CoreCompileInputs.cache
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.sourcelink.json
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.dll
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\refint\CQRS.Core.dll
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.pdb
+D:\Mayank_Learning\Kafka_Project\CQRS-ES\CQRS.Core\obj\Debug\net9.0\ref\CQRS.Core.dll

@@ -1,0 +1,16 @@
+D:\Mayank_Learning\Kafka_Project\SM-Post\Post.Common\bin\Debug\net9.0\Post.Common.deps.json
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\bin\Debug\net9.0\Post.Common.dll
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\bin\Debug\net9.0\Post.Common.pdb
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\bin\Debug\net9.0\CQRS.Core.dll
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\bin\Debug\net9.0\CQRS.Core.pdb
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.csproj.AssemblyReference.cache
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.AssemblyInfoInputs.cache
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.AssemblyInfo.cs
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.sourcelink.json
+D:\Mayank_Learning\Kafka_Project\SM-Post\Post.Common\obj\Debug\net9.0\Post.Com.894DB8FF.Up2Date
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.dll
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\refint\Post.Common.dll
+D:\Mayank_Learning\Kafka_Project\SM-POST\Post.Common\obj\Debug\net9.0\Post.Common.pdb
+D:\Mayank_Learning\Kafka_Project\SM-Post\Post.Common\obj\Debug\net9.0\ref\Post.Common.dll

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {}
+    "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {}
   },
   "projects": {
     "D:\\Mayank_Learning\\Kafka_Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
+    "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\Post.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\Post.Common.csproj",
         "projectName": "Post.Common",
-        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\Post.Common.csproj",
         "packagesPath": "C:\\Users\\bhada\\.nuget\\packages\\",
-        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\obj\\",
+        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {
+    "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
         "projectName": "Post.Query.Api",
-        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
         "packagesPath": "C:\\Users\\bhada\\.nuget\\packages\\",
-        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Api\\obj\\",
+        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,14 +175,14 @@
               "D:\\Mayank_Learning\\Kafka_Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
-                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\Post.Common.csproj"
+              "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\Post.Common.csproj"
               },
-              "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
-                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"
+              "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
+                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"
               },
-              "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj": {
-                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj"
+              "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj": {
+                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
+    "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
         "projectName": "Post.Query.Domain",
-        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
         "packagesPath": "C:\\Users\\bhada\\.nuget\\packages\\",
-        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\obj\\",
+        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -262,8 +262,8 @@
               "D:\\Mayank_Learning\\Kafka_Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\Post.Common.csproj": {
-                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Common\\Post.Common.csproj"
+              "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Common\\Post.Common.csproj"
               }
             }
           }
@@ -303,14 +303,14 @@
         }
       }
     },
-    "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj": {
+    "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
         "projectName": "Post.Query.Infrastructure",
-        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+        "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\bhada\\.nuget\\packages\\",
-        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\obj\\",
+        "outputPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -334,8 +334,8 @@
               "D:\\Mayank_Learning\\Kafka_Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
-                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"
+              "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
+                "projectPath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"
               }
             }
           }
