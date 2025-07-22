@@ -1,1 +1,1 @@
-A .Net based Microservices Project with Kafka based messaging and CQRS Pattern API's
+A .Net based CQRS Pattern Microservices Project with Kafka based messaging
