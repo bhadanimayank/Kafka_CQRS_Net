@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zIGjNbsVgEE=",
+  "dgSpecHash": "7K78asgux14=",
   "success": true,
-  "projectFilePath": "D:\\Mayank_Learning\\Kafka_Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+  "projectFilePath": "D:\\Mayank_Learning\\Kafka_Project\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhada\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
     "C:\\Users\\bhada\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
